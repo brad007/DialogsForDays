@@ -112,6 +112,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //This listener allows you to use variables/methods in your host activity when the user
         //has clicked the postive/negative/(neutral button)
         Toast.makeText(MainActivity.this, getString(R.string.accept), Toast.LENGTH_SHORT).show();
+
+
     }
 
     @Override
