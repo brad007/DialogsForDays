@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dialogs For Days</string>
+    <string name="simple_dialog_title">Simple Dialog</string>
+    <string name="simple_dialog_message">Simple Dialog Message</string>
+    <string name="dialog_with_button_title">Dialog With Buttons Title</string>
+    <string name="dialog_with_button_message" >Dialog With Buttons Message</string>
+    <string name="accept">Accept</string>
+    <string name="undecided">Undecided</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_option">First Option</string>
+    <string name="second_option">Second Option</string>
+    <string name="third_option">Third Option</string>
+    <string name="list_dialog_title">List Dialog</string>
+    <string name="list_dialog_message">A List Of Words</string>
+    <string name="dialog_with_list">Dialog With List</string>
+    <string name="single_choice_dialog_title">Single Choice Dialog</string>
+    <string name="multiple_choice_dialog_title">Multiple Choice Dialog</string>
+    <string name="display_choices">Display</string>
+    <string name="custom_layout">Custom Layout</string>
+    <string name="custom_layout_title">Custom Layout</string>
+    <string name="feedback_dialog_title">Feedback Dialog</string>
+    <string name="feedback_dialog_message">Feedback Dialog</string>
+    <string name="get_feedback_title">Get Feedback</string>
+</resources>
